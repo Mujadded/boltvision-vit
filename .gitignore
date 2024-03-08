@@ -1,0 +1,13 @@
+data
+raw_images
+CCT_model
+CNN_attention
+ViT_model
+CNN_seq
+runs
+__pycache__
+*.hdf5
+*.pb
+*.csv
+*.pth
+history_*
